@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Infrastructure as a Service (IaaS) is a cloud computing model that provides virtualized computing resources over the internet. Instead of purchasing and maintaining physical servers, storage devices, and networking equipment, organizations can rent these resources from cloud service providers. This approach reduces the cost of infrastructure management and allows businesses to focus more on developing applications and services.
+Infrastructure as a Service (IaaS) is a type of cloud computing that allows users to use servers, storage, and networking resources through the internet. Instead of buying physical hardware, companies can rent these resources from cloud providers. This helps reduce cost and saves time.
 
 ## How IaaS Works
 
-IaaS providers maintain large data centers containing physical servers, storage systems, and networking hardware. These resources are divided into virtual machines using virtualization technology. Users can access and manage their virtual infrastructure through a web dashboard or APIs. They can increase or decrease resources based on their requirements, making IaaS highly flexible and scalable.
+IaaS providers manage physical servers in data centers and provide virtual machines to users. Users can access these resources online and increase or decrease them based on their needs.
 
 ## Key Components of IaaS
 
@@ -23,22 +23,26 @@ IaaS providers maintain large data centers containing physical servers, storage 
 * Offers faster deployment of applications and services.
 * Provides disaster recovery and backup options.
 
+## Benefits of IaaS
+Lower cost because users pay only for what they use.
+Easy to increase or decrease resources.
+No need to maintain physical servers.
+Quick setup for applications and services.
+
 ## Popular IaaS Providers
 
 Some well-known IaaS providers include:
 
 * Amazon Web Services (AWS)
 * Microsoft Azure
-* Google Cloud Platform (GCP)
+* Google Cloud Platform (GCP) 
+
 
 ## Conclusion
 
-Infrastructure as a Service is an important part of cloud computing that helps organizations build and manage IT infrastructure without investing in expensive physical hardware. Its flexibility, scalability, and cost efficiency make it a suitable choice for startups, enterprises, and developers who need reliable computing resources on demand.
-
+IaaS is a useful cloud service that gives businesses flexible and affordable access to computing resources. It helps organizations focus on their work without managing expensive hardware.
 ## References
 
-* https://aws.amazon.com/what-is/iaas/
-* https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-iaas/
-* https://cloud.google.com/learn/what-is-iaas
-* https://www.ibm.com/topics/iaas
-* https://www.redhat.com/en/topics/cloud-computing/what-is-iaas
+* https://www.sciencedirect.com/science/article/pii/S1084804513002099
+* https://www.nist.gov/publications/nist-definition-cloud-computing
+* https://arxiv.org/abs/2210.09691
